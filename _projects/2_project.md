@@ -23,3 +23,5 @@ For further reading, a detailed treatment of this work can be found in my PhD th
 <div class="caption">
     The upcrossing rate of a particular threshold is greatest when the mean membrane potential is equal to that threshold.
 </div>
+
+A video of my ICMNS 2020 presentation on this topic can be found [here](https://www.youtube.com/live/Lsj57MvDttU?feature=share&t=9301).
